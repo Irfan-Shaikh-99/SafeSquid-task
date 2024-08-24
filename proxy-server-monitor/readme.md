@@ -1,4 +1,4 @@
-﻿# System Monitoring Script
+# System Monitoring Script
 
 ## Overview
 
@@ -102,3 +102,26 @@ To run the script, use the following command:
   ./monitor.sh
   ```
 
+## Download and Installation
+
+You can download the script from the GitHub repository:
+
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/Irfan-Shaikh-99/SafeSquid-task.git
+    ```
+
+2. **Navigate to the Directory**:
+    ```bash
+    cd SafeSquid-task/proxy-server-monitor
+    ```
+
+3. **Ensure the Script is Executable**:
+    ```bash
+    chmod +x monitor.sh
+    ```
+
+4. **Run the Script**:
+    ```bash
+    ./monitor.sh
+    ```
