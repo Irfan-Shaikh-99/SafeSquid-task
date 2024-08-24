@@ -63,6 +63,7 @@ You can download the script and configuration file from the GitHub repository:
 2. **Navigate to the Directory**:
     ```bash
     cd SafeSquid-task
+/security-audit-and-server-hardening-script/
     ```
 
 3. **Ensure the Script is Executable**:
